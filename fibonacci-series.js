@@ -25,5 +25,5 @@
  }
  const fiboSeries =fibonacciSeries(3);
 
- console.log(fiboSeries)
+ console.log("Here is your fibonacci series according to your input value::" ,fiboSeries)
 
